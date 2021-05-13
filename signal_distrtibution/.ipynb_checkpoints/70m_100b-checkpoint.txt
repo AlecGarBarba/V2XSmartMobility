@@ -1,0 +1,50 @@
+Respuesta desde 192.168.1.2: bytes=100 tiempo=6ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=3ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=6ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=7ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=1ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=10ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=12ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=11ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=8ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=3ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=7ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=5ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=7ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=8ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=5ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=5ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo<1ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=5ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=11ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=1ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=1ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=13ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=7ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=10ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=9ms TTL=64
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 192.168.1.2: bytes=100 tiempo=27ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=4ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=14ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=10ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=9ms TTL=64
+Respuesta desde 192.168.1.2: bytes=100 tiempo=2ms TTL=64
